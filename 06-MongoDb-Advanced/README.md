@@ -44,7 +44,7 @@ mongorestore --db users-example users.bson
 ### Show Databases
 
 ```
-shwo dbs
+show dbs
 ```
 
 
